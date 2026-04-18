@@ -1,0 +1,4 @@
+*.pcap
+*SSLKeys*
+*.DS_Store*
+.obsidian/
