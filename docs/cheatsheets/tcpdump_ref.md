@@ -1,6 +1,6 @@
 CheatSheet
-- Stop after capturing *n* packets `tcpdump -c n
-- Add line numbers before captured packets `tcpdump -#
+- Stop after capturing *n* packets `tcpdump -c n`
+- Add line numbers before captured packets `tcpdump -#`
 - Show captured packets in ASCII `tcpdump -A`
 - Show captured packets in hexadecimal `tcpdump -XX`
 - Show human readable capture time `tcpdump -tttt`
